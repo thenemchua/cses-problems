@@ -1,5 +1,5 @@
 # cses-problems
-learning cpp by solving cses problems ( https://cses.fi )
+Learning cpp by solving cses problems ( https://cses.fi )
 
 ## Problems solved (4/150):
 **Introductory problems**
