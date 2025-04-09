@@ -1,7 +1,7 @@
 # CSES problems
 Learning C++ by solving CSES problems ( https://cses.fi )
 
-## Problems solved (9/150):
+## Problems solved (11/150):
 **Introductory problems**
 - Weird Algorithms
 - Missing Number
@@ -14,3 +14,5 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 
 **Sorting and Searching**
 - Distinct Numbers
+- Apartments
+- Ferris Wheel
