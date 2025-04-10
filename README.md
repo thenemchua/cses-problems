@@ -3,7 +3,7 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 
 ## Problems solved (13/150):
 **Introductory problems**
-- Weird Algorithms
+- Weird Algorithms 
 - Missing Number
 - Repetitions
 - Increasing Array
@@ -18,3 +18,7 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 - Distinct Numbers
 - Apartments
 - Ferris Wheel
+
+**Dynamic Programming**
+- Dice Combinations (https://cses.fi/problemset/task/1633)
+- Minimizing Coins
