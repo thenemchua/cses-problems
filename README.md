@@ -1,7 +1,7 @@
 # CSES problems
 Learning C++ by solving CSES problems ( https://cses.fi )
 
-## Problems solved (18/150):
+## Problems solved (21/150):
 **Introductory problems**
 - [Weird Algorithms](https://cses.fi/problemset/task/1068)
 - [Missing Number](https://cses.fi/problemset/task/1083)
@@ -18,6 +18,9 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 - [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [Apartments](https://cses.fi/problemset/task/1084)
 - [Ferris Wheel](https://cses.fi/problemset/task/1090)
+- [Concert Tickets](https://cses.fi/problemset/task/1091)
+- [Restaurant Customers](https://cses.fi/problemset/task/1619)
+- [Movie Festival](https://cses.fi/problemset/result/12623274/)
 
 **Dynamic Programming**
 - [Dice Combinations](https://cses.fi/problemset/task/1633)
