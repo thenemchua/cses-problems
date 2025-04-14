@@ -1,7 +1,7 @@
 # CSES problems
 Learning C++ by solving CSES problems ( https://cses.fi )
 
-## Problems solved (23/150):
+## Problems solved (24/150):
 **Introductory problems**
 - [Weird Algorithms](https://cses.fi/problemset/task/1068)
 - [Missing Number](https://cses.fi/problemset/task/1083)
@@ -23,6 +23,7 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 - [Movie Festival](https://cses.fi/problemset/result/12623274/)
 - [Sum of Two Values](https://cses.fi/problemset/task/1640)
 - [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/)
+- [Stick Lengths](https://cses.fi/problemset/task/1074/)
 
 **Dynamic Programming**
 - [Dice Combinations](https://cses.fi/problemset/task/1633)
