@@ -22,6 +22,7 @@ Learning C++ by solving CSES problems ( https://cses.fi )
 - [Restaurant Customers](https://cses.fi/problemset/task/1619)
 - [Movie Festival](https://cses.fi/problemset/result/12623274/)
 - [Sum of Two Values](https://cses.fi/problemset/task/1640)
+- [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/)
 
 **Dynamic Programming**
 - [Dice Combinations](https://cses.fi/problemset/task/1633)
