@@ -1,7 +1,7 @@
 # CSES problems
 Learning C++ by solving CSES problems ( https://cses.fi )
 
-## Problems solved (22/150):
+## Problems solved (23/150):
 **Introductory problems**
 - [Weird Algorithms](https://cses.fi/problemset/task/1068)
 - [Missing Number](https://cses.fi/problemset/task/1083)
